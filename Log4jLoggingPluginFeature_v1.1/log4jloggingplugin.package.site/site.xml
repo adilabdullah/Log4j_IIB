@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/log4jloggingplugin.package_1.1.0.jar" id="log4jloggingplugin.package" version="1.1.0"/>
+</site>
